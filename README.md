@@ -46,7 +46,6 @@ This infrastructure deploys:
 | `frontend_image_tag` | Docker image tag for frontend | `latest` |
 
 
-## Deployment
 
 ### Initial Setup
 
